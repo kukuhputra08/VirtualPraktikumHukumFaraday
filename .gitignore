@@ -1,0 +1,37 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Pp]ackages/com.unity.collab-proxy/
+sysinfo.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.suo
+*.unityproj
+
+# Builds
+Build/
+Builds/
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.msi
+
+# Cache
+*.stackdump
